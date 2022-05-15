@@ -1,0 +1,36 @@
+---
+title: "Lillian Wang"
+image: "profile_pic.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/lillian-wang-95a12212a/"
+  - label: Twitter
+    url: "https://twitter.com/EatYourGreens5"
+  - label: GitHub
+    url: "https://github.com/LillianWith2Ls"
+  - label: Email
+    url: "mailto:lillian.f.wang@gmail.com"
+output: 
+  rmarkdown::github_document
+  postcards::trestles
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Bio
+
+Lillian is a graduate student at Cal Poly Pomona studying Plant Science at the Don B. Huntley College of Agriculture. She graduated from Cal State Long Beach in 2016 with a B.S. in Molecular Cell Biology and Physiology with a minor in chemistry (she insists on saying the full major name every time she introduces herself). She likes to learn new things via path with most resistance because what is life without some inconveniences? She enjoys watching too many movies, reading not enough books, and Oreos. 
+
+## Education
+
+**California Polytechnic State University - Pomona** | Pomona, CA
+
+M.S. in Agriculture - Plant Science | 2020-2022
+
+**California State University - Long Beach** | Long Beach, CA
+
+B.S. in Biology - Molecular Cell Biology and Physiology | 2016-2020
+
+## The process of making this website was kinda weird but I got it :)
